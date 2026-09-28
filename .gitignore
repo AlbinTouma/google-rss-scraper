@@ -1,0 +1,4 @@
+.vscode/
+dist/
+.git/
+.pytest_cache/
